@@ -38,7 +38,7 @@ const EDashboard = () => {
         <div className="pl-2">
           <h3 className="text-xs font-medium text-gray-700">Total Consumption</h3>
           <p className="text-base font-bold text-gray-900 text-nowrap">
-            11,438 <span className="text-xs font-normal">kWh</span>
+            11,437 <span className="text-xs font-normal">kWh</span>
           </p>
         </div>
       </div>
